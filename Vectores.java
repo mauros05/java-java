@@ -1,6 +1,6 @@
 public class Vectores {
     public static void main(String[] args){
-        int numeros[] =  new int[5];
+        int numeros[] = new int[5];
 
         numeros[0] = 5;
         numeros[1] = 10;
