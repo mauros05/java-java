@@ -1,7 +1,7 @@
 import javax.swing.*; // <-- libreria
 
 public class Swing extends JFrame {
-  private JLabel label1;
+  private JLabel label1; // <-- Los labels deben de ser privados
     
   public Swing(){ // <-- constructor
     setLayout(null); // <-- Indica mediante coordenadas donde vamos a colocar la interfaz
